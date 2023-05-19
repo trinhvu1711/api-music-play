@@ -11,5 +11,5 @@
 
 ![image](https://user-images.githubusercontent.com/115199643/234032108-bcbe4e14-9d3a-4c06-bbdc-959777339a3a.png)
 
-![image](![image](https://github.com/trinhvu1711/api-music-play/assets/81180330/01f5fd52-8ee7-4c8e-893a-f8e1d0b29ea6)
+![image](https://github.com/trinhvu1711/api-music-play/assets/81180330/01f5fd52-8ee7-4c8e-893a-f8e1d0b29ea6)
 
